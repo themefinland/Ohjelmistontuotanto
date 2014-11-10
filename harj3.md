@@ -11,6 +11,10 @@
 
 ## ii.
    
-   Nav
+   Navigointia käyttäisivät oppilaat, opettajat ja vieraat. Erityisesti
+   ihmiset, jotka eivät tunne metropolian rakennuksia voisivat tätä hyödyntää.
+   Myös esimerkiksi jos leppävaaran metropolian opiskelija käy kursseja esimerkiksi
+   tikkurilan toimipisteessä, helpottaisi navigointijärjestelmä toimintaa.
+   Ilmoitusjärjestelmää käyttäisivät oppilaat ja opettajat.
 
    
