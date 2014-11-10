@@ -18,3 +18,7 @@
    Ilmoitusj‰rjestelm‰‰ k‰ytt‰isiv‰t oppilaat ja opettajat.
 
    
+## iii.
+
+   Navigoidessa ruudulla n‰kyisi nuoli, joka ohjaisi k‰ytt‰j‰n oikeaan suuntaan.
+   
