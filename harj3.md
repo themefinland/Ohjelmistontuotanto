@@ -1,41 +1,41 @@
 <<<<<<< HEAD
 
 i.  Evakuointiin kuluvan ajan mittaamiseen.
-	Voidaan käyttää koulun navigoinnin helpottamisessa.
-	Näyttää reaaliajassa mitkä luokat ovat tyhjiä.
-	Näyttää relevanttia infoa mitä välineistöä on huoneissa, kuka on opettamassa missäkin luokassa yms.
+	Voidaan kÃ¤yttÃ¤Ã¤ koulun navigoinnin helpottamisessa.
+	NÃ¤yttÃ¤Ã¤ reaaliajassa mitkÃ¤ luokat ovat tyhjiÃ¤.
+	NÃ¤yttÃ¤Ã¤ relevanttia infoa mitÃ¤ vÃ¤lineistÃ¶Ã¤ on huoneissa, kuka on opettamassa missÃ¤kin luokassa yms.
 	
-ii. Käyttäjinä ovat sekä koulun vakio oppilaat, että koulussa vierailevat ihmiset ketkä eivät muuten tiedä missä on mitä.
-	Ohjelma auttaa koulussa päivittäin käyviä ihmisiä löytämään tarvitsemansa asiat ilman, että he joutuisivat
-	kääntämään koko koulun ylösalaisin.
+ii. KÃ¤yttÃ¤jinÃ¤ ovat sekÃ¤ koulun vakio oppilaat, ettÃ¤ koulussa vierailevat ihmiset ketkÃ¤ eivÃ¤t muuten tiedÃ¤ missÃ¤ on mitÃ¤.
+	Ohjelma auttaa koulussa pÃ¤ivittÃ¤in kÃ¤yviÃ¤ ihmisiÃ¤ lÃ¶ytÃ¤mÃ¤Ã¤n tarvitsemansa asiat ilman, ettÃ¤ he joutuisivat
+	kÃ¤Ã¤ntÃ¤mÃ¤Ã¤n koko koulun ylÃ¶salaisin.
 	
-iii.Ohjelman yleinen näkymä on 2d karttakuva jossa on eriilaisia vimpaimia näytön ympärillä josta käyttäjä saa lisätietoa.
+iii. Ohjelman yleinen nÃ¤kymÃ¤ on 2d karttakuva jossa on eriilaisia vimpaimia nÃ¤ytÃ¶n ympÃ¤rillÃ¤ josta kÃ¤yttÃ¤jÃ¤ saa lisÃ¤tietoa.
 =======
 ## i. 
 
    Metropoliaan tulevat vieraat voisivat navigoida 
    haluamaansa kokoustilaan tai luentosaliin 
-   sisätilapaikannusta hyödyntävän "navigaattorin" avulla.
-   Paikannusta voisi käyttää myös ilmoittamaan oppilaille ja
-   opettajille jos he ovat väärässä luokassa väärään aikaan. 
-   Jos heillä esimerkiksi alkaa lukujärjestykseen merkitty tunti
-   ja he ovat väärässä paikassa.
+   sisÃ¤tilapaikannusta hyÃ¶dyntÃ¤vÃ¤n "navigaattorin" avulla.
+   Paikannusta voisi kÃ¤yttÃ¤Ã¤ myÃ¶s ilmoittamaan oppilaille ja
+   opettajille jos he ovat vÃ¤Ã¤rÃ¤ssÃ¤ luokassa vÃ¤Ã¤rÃ¤Ã¤n aikaan. 
+   Jos heillÃ¤ esimerkiksi alkaa lukujÃ¤rjestykseen merkitty tunti
+   ja he ovat vÃ¤Ã¤rÃ¤ssÃ¤ paikassa.
    
 
 ## ii.
    
-   Navigointia käyttäisivät oppilaat, opettajat ja vieraat. Erityisesti
-   ihmiset, jotka eivät tunne metropolian rakennuksia voisivat tätä hyödyntää.
-   Esimerkiksi jos leppävaaran metropolian opiskelija käy kursseja esimerkiksi
-   tikkurilan toimipisteessä, helpottaisi navigointijärjestelmä toimintaa.
-   Ilmoitusjärjestelmää käyttäisivät oppilaat ja opettajat.
+   Navigointia kÃ¤yttÃ¤isivÃ¤t oppilaat, opettajat ja vieraat. Erityisesti
+   ihmiset, jotka eivÃ¤t tunne metropolian rakennuksia voisivat tÃ¤tÃ¤ hyÃ¶dyntÃ¤Ã¤.
+   Esimerkiksi jos leppÃ¤vaaran metropolian opiskelija kÃ¤y kursseja esimerkiksi
+   tikkurilan toimipisteessÃ¤, helpottaisi navigointijÃ¤rjestelmÃ¤ toimintaa.
+   IlmoitusjÃ¤rjestelmÃ¤Ã¤ kÃ¤yttÃ¤isivÃ¤t oppilaat ja opettajat.
 
    
 ## iii.
 
-   Navigoidessa ruudulla näkyisi nuoli, joka ohjaisi käyttäjän oikeaan suuntaan.
-   Ilmoitusjärjestelmän käyttöliittymä voisi olla hyvin yksinkertainen. Käyttäjä 
-   kirjautuisi sisään ja tiedot synkronoitaisiin lukujärjestysjärjestelmästä. Hälyyttäessä
-   näytölle pomppaisi tiedot, missä pitäisi olla.
+   Navigoidessa ruudulla nÃ¤kyisi nuoli, joka ohjaisi kÃ¤yttÃ¤jÃ¤n oikeaan suuntaan.
+   IlmoitusjÃ¤rjestelmÃ¤n kÃ¤yttÃ¶liittymÃ¤ voisi olla hyvin yksinkertainen. KÃ¤yttÃ¤jÃ¤ 
+   kirjautuisi sisÃ¤Ã¤n ja tiedot synkronoitaisiin lukujÃ¤rjestysjÃ¤rjestelmÃ¤stÃ¤. HÃ¤lyyttÃ¤essÃ¤
+   nÃ¤ytÃ¶lle pomppaisi tiedot, missÃ¤ pitÃ¤isi olla.
    
 >>>>>>> 5e846184d4e956835a55f45e32da86403d4fc0f7
