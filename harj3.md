@@ -21,4 +21,7 @@
 ## iii.
 
    Navigoidessa ruudulla näkyisi nuoli, joka ohjaisi käyttäjän oikeaan suuntaan.
+   Ilmoitusjärjestelmän käyttöliittymä voisi olla hyvin yksinkertainen. Käyttäjä 
+   kirjautuisi sisään ja tiedot synkronoitaisiin lukujärjestysjärjestelmästä. Hälyyttäessä
+   näytölle pomppaisi tiedot, missä pitäisi olla.
    
